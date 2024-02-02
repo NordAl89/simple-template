@@ -12,7 +12,7 @@
 {
     width: 94vw;
     margin: 0 auto;
-    background-color: cyan;
+    background-color: #e9e6df;
 }
 
 .title-h1
@@ -20,9 +20,3 @@
   text-align: center;  
 }
 
-.title-h2
-{
-    width: 40%;
-    margin: 0 auto;
-    text-align: center;
-}
